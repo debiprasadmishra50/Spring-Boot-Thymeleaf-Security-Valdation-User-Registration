@@ -1,7 +1,5 @@
 SPRING SECURITY, THYMELEAF and Spring Boot
 ==========================================
-
-
 A couple of high-level changes
 
 1. Add the Thymeleaf pom entries
